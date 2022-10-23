@@ -2,11 +2,11 @@ var dialog = document.getElementsByClassName("dialog")[0];
 
 var dialogs = {
     value0: function() {
-        texts = " Ingeniero Químico";
+        texts = " Estudiante de Ingeniería de Sistemas";
         timer = 200;
     },
     value1: function() {
-        texts = " Desarrollador web";
+        texts = " Desarrolladora web";
         timer = 200;
     }
 };
